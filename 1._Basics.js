@@ -24,6 +24,6 @@ const increment = 1;
 
 const currentYear = Number(year) + increment
 
-console.log(currentYearFirst)
+console.log(currentYear)
 
 // --------------------------------------
